@@ -1,7 +1,15 @@
 body {
-    background-color: #1E5128;		
+    background-color: #1E5118;		
 }	
+h1 {
+    color: goldenrod;
+    
+}
 
+h3 {
+    color: goldenrod;
+    
+}
 hr {
     border-style: none;
     border-top-style: dotted;
